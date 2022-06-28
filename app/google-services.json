@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "529980262778",
+    "project_id": "meogja-6e352",
+    "storage_bucket": "meogja-6e352.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:529980262778:android:306aa43554bf98a35deec3",
+        "android_client_info": {
+          "package_name": "com.example.meogja"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "529980262778-jikhp7rbmdjic3lpmshnvc8b4qv6ain8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDGvlzDS3mCglwkiM9864G_2G898dIcfO4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "529980262778-jikhp7rbmdjic3lpmshnvc8b4qv6ain8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
